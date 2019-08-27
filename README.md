@@ -22,9 +22,13 @@ webpack 应该使用哪个模块，来作为构建其内部依赖图的开始。
 
 三、loader
 
+让 webpack 能够去处理那些非 JavaScript 文件（webpack 自身只理解 JavaScript）。loader 可以将所有类型的文件转换为 webpack 能够处理的有效模块，然后你就可以利用 webpack 的打包能力，对它们进行处理。
+
+如：对ES6中浏览器还未支付的属生进行编译、把jsx语法编译成js语法、less编译成Css, 等...
+
+四、插件\(plugins\)
 
 
-1. 插件\(plugins\)
 
 中文文档：[https://www.webpackjs.com/concepts/](https://www.webpackjs.com/concepts/)
 
