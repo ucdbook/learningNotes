@@ -4,7 +4,7 @@ webpack 是一个现代 JavaScript 应用程序的静态模块打包器\(module 
 
 **它的功能：**
 
-1. 模块代码打包
+1. 通过loader、plugins等配置进行模块代码打包
 
 2. 构建一个模块依赖关系图
 
@@ -12,10 +12,16 @@ webpack 是一个现代 JavaScript 应用程序的静态模块打包器\(module 
 
 **四个核心概念：**
 
-1. 入口\(entry\)
-2. 输出\(output\)
-3. loader
-4. 插件\(plugins\)
+一、入口\(entry\):
+
+webpack 应该使用哪个模块，来作为构建其内部依赖图的开始。进入入口起点后，webpack 会找出有哪些模块和库是入口起点（直接和间接）依赖的。
+
+二、输出\(output\)
+
+
+
+1. loader
+2. 插件\(plugins\)
 
 中文文档：[https://www.webpackjs.com/concepts/](https://www.webpackjs.com/concepts/)
 
