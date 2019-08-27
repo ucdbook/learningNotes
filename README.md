@@ -18,10 +18,13 @@ webpack 应该使用哪个模块，来作为构建其内部依赖图的开始。
 
 二、输出\(output\)
 
+属性告诉 webpack 在哪里输出它所创建的 bundles，以及如何命名这些文件，默认值为 ./dist。
+
+三、loader
 
 
-1. loader
-2. 插件\(plugins\)
+
+1. 插件\(plugins\)
 
 中文文档：[https://www.webpackjs.com/concepts/](https://www.webpackjs.com/concepts/)
 
