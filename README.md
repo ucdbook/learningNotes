@@ -28,5 +28,7 @@ webpack 应该使用哪个模块，来作为构建其内部依赖图的开始。
 
 **四、插件\(plugins\)**
 
+loader 被用于转换某些类型的模块，而插件则可以用于执行范围更广的任务。插件的范围包括，从打包优化和压缩，一直到重新定义环境中的变量。插件接口功能极其强大，可以用来处理各种各样的任务。
+
 中文文档：[https://www.webpackjs.com/concepts/](https://www.webpackjs.com/concepts/)
 
