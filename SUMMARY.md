@@ -10,6 +10,5 @@
 * [React](ru-men.md)
 * [TypeScript](setup.md)
 * [Docker](docker.md)
-* dva
-* [aa](aa.md)
+* [dva](dva.md)
 
