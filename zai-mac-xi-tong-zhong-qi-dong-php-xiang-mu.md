@@ -126,7 +126,7 @@ MySQL可视化管理方式phpMyAdmin：
 
 set password for 'root'@'localhost'=password\('新密码'\);完成修改
 
-
+---------------------------------------------------------------------------------------------------------------
 
 原文：[https://www.cnblogs.com/kyra/p/11017199.html](https://www.cnblogs.com/kyra/p/11017199.html)
 
