@@ -4,9 +4,7 @@
 
 ### ![](/assets/b1.png)![](/assets/b2.png)
 
-
-
-### 安装依赖
+### [安装依赖](https://baidu.com)
 
 ```
 npm i feedback-qrcode --save -S
@@ -33,6 +31,7 @@ import feedbackQrcode from 'feedback-qrcode/libs/index.js';
  * --------data: Object 存放成功的数据 url为图片地址
  */ 
 feedbackQrcode.config({
+    source: 'TMS',
     isOpen: false,
     tabAction: 'form',
     feecBackQrcode: 'https://image.tf56.com/dfs/group1/M00/18/12/CiFCLl2OqO2AREG5AACAZj11-vk823.png',
@@ -61,7 +60,7 @@ feedbackQrcode.config({
 });
 ```
 
-
+### 
 
 
 
