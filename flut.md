@@ -3,7 +3,5 @@
 2. [https://flutter.dev/docs/get-started/install/macos](https://flutter.dev/docs/get-started/install/macos)
 3. vs code中安装Flutter 
 
-![](/assets/dd1.png)
-
-
+![](/assets/ddddsdd.png)
 
