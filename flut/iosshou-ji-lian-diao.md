@@ -11,6 +11,10 @@ Mac下IOS手机联调
 
 ![](/assets/dsfdsfg.png)
 
+---证书安装目录---
+
+![](/assets/dsfdsggdh.png)
+
 ---xcode配置证书---![](/assets/dsgg.png)
 
 **中途碰到的问题：**
