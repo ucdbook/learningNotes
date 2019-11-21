@@ -17,7 +17,7 @@ Mac下IOS手机联调
 
 一、证书装不上，提示“不能修改“System Roots”钥匙串”
 
-解决方案：
+解决方案：选择“登录”或login按钮，直接将.cer/.p12文件拖进中间的各种钥匙列表中即可。
 
 参考：[https://www.jianshu.com/p/f8c8293e59f3](https://www.jianshu.com/p/f8c8293e59f3)
 
