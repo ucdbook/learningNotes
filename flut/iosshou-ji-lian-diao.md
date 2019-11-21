@@ -7,11 +7,11 @@ Mac下IOS手机联调
 3. mac安装开发证书\(双击安装.p12文件、两个.mobileprovision文件\) ---\(图2\)
 4. 在xcode中配置证书、配置appId ---\(图3､图4\)
 
----图1:证书图片---
+---图1: 证书图片---
 
 ![](/assets/dsfdsfg.png)
 
----图2:证书安装目录---
+---图2: 证书安装目录---
 
 ![](/assets/dsfdsggdh.png)
 
