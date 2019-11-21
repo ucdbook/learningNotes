@@ -7,7 +7,7 @@
 3. mac安装开发证书\(双击安装.p12文件、两个.mobileprovision文件\) ---\(图2\)
 4. 在xcode中配置证书、配置appId ---\(图3､图4\)
 5. 构建项目：执行菜单栏Product &gt; Build
-6. 启用项目：
+6. 启用项目---\(图5\)
 
 ---图1: 证书图片---
 
@@ -20,6 +20,8 @@
 ---图3: xcode配置appid---![](/assets/dsdfsgg.png)
 
 ---图4: xcode配置证书---![](/assets/dsgg.png)
+
+---图5---![](/assets/dsdfsgdh.png)
 
 **中途碰到的问题：**
 
