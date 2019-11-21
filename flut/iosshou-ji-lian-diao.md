@@ -15,7 +15,11 @@ Mac下IOS手机联调
 
 **中途碰到的问题：**
 
-项目在xcode中build时，提示iOS DeviceSupport版本不支持。后来升级了iOS DeviceSupport为版本13.2
+一、证书装不上
+
+
+
+二、项目在xcode中build时，提示iOS DeviceSupport版本不支持。后来升级了iOS DeviceSupport为版本13.2
 
 升级方式: 下载需要的版本，复制到iOS DeviceSupport文件目录中
 
