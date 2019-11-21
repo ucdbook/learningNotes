@@ -15,9 +15,9 @@ Mac下IOS手机联调
 
 ![](/assets/dsfdsggdh.png)
 
----xcode配置appid---![](/assets/dsdfsgg.png)
+---图3: xcode配置appid---![](/assets/dsdfsgg.png)
 
----xcode配置证书---![](/assets/dsgg.png)
+---图4: xcode配置证书---![](/assets/dsgg.png)
 
 **中途碰到的问题：**
 
