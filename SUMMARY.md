@@ -15,8 +15,7 @@
 * [在mac系统中启动php项目](zai-mac-xi-tong-zhong-qi-dong-php-xiang-mu.md)
 * [好文介绍](zu-jian-jie-shao.md)
 * [Flutter学习](flut.md)
-  * 调试
-    * ss
-    * [IOS手机联调](flut/iosshou-ji-lian-diao.md)
-  * [Android手机联调](flut/androidshou-ji-lian-diao.md)
+  * [调试](flut/diao-shi.md)
+    * [IOS手机调试](flut/iosshou-ji-lian-diao.md)
+    * [Android手机调试](flut/androidshou-ji-lian-diao.md)
 
