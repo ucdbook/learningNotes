@@ -1,14 +1,12 @@
-VPN搭建
+## VPN搭建
 
-**服务器情况：**
+#### **服务器情况：**
 
 服务器商：[https://my.vultr.com/](https://my.vultr.com/)
 
 服务器系统：Ubuntu 19.10 x64
 
- 
-
-**搭建步骤：**
+#### **搭建步骤：**
 
 参考：[https://cuiqingcai.com/512.html](https://cuiqingcai.com/512.html)
 
