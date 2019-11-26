@@ -19,9 +19,7 @@ VPN是什么？中文翻译叫做：虚拟专用网络。功能是，在公用�
 
 mac下Cisco AnyConnect Secure Mobility Client安装包: [http://hacksteven.com/?p=180](http://hacksteven.com/?p=180)
 
-IOS手机AnyConnect安装：请到appStore中去搜索下载
-
-
+IOS手机AnyConnect安装：请到appStore中去搜索下载\(免费\)
 
 参考：[https://tommy.net.cn/2015/02/12/deploy-openconnect-server-with-docker/](https://tommy.net.cn/2015/02/12/deploy-openconnect-server-with-docker/)
 
