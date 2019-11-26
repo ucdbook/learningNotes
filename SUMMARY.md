@@ -18,4 +18,6 @@
   * [调试](flut/diao-shi.md)
     * [IOS手机调试](flut/iosshou-ji-lian-diao.md)
     * [Android手机调试](flut/androidshou-ji-lian-diao.md)
+* [其它](qi-ta.md)
+  * [Php环境搭建](qi-ta/phphuan-jing-da-jian.md)
 
