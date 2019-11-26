@@ -2,6 +2,10 @@ VPN搭建
 
 服务器情况：
 
+服务器商：[https://my.vultr.com/](https://my.vultr.com/)
+
+服务器系统：Ubuntu 19.10 x64
+
 
 
 搭建步骤：
@@ -25,8 +29,6 @@ VPN是什么？中文翻译叫做：虚拟专用网络。功能是，在公用�
 1、用root账户登陆服务器
 
 2、安装PPTPD
-
-
 
 3、编辑pptpd.conf文件
 
