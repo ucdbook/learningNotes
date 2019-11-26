@@ -1,15 +1,5 @@
 ## VPN搭建
 
-#### **服务器情况：**
-
-服务器商：[https://my.vultr.com/](https://my.vultr.com/)
-
-服务器系统：Ubuntu 19.10 x64
-
-#### **搭建步骤：**
-
-参考：[https://cuiqingcai.com/512.html](https://cuiqingcai.com/512.html)
-
 VPN是什么？中文翻译叫做：虚拟专用网络。功能是，在公用网络上建立专用网络，进行加密通讯。
 
 适用的场合：
@@ -21,6 +11,18 @@ VPN是什么？中文翻译叫做：虚拟专用网络。功能是，在公用�
 3.某台服务器（如游戏服务器）限制了一些IP连接到它上面，这时你配置VPN，连上VPN之后，就可以继续访问那台服务器咯。
 
 4.etc…
+
+#### **服务器情况：**
+
+服务器商：[https://my.vultr.com/](https://my.vultr.com/)
+
+服务器系统：Ubuntu 19.10 x64
+
+#### **搭建步骤：**
+
+参考：[https://cuiqingcai.com/512.html](https://cuiqingcai.com/512.html)
+
+
 
 我们以Ubuntu为例，说一下怎样配置VPN服务器。
 
