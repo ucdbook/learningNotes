@@ -17,11 +17,11 @@ VPN是什么？中文翻译叫做：虚拟专用网络。功能是，在公用�
 
 #### **搭建步骤：**
 
-mac下Cisco AnyConnect Secure Mobility Client安装包: [http://hacksteven.com/?p=180](http://hacksteven.com/?p=180)
+mac下Cisco AnyConnect Secure Mobility Client安装包:  
+ [http://hacksteven.com/?p=180](http://hacksteven.com/?p=180)  
+链接: https://pan.baidu.com/s/1fKnheWRs5DqVMmWdpIU6pw 提取码: 2udd 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 IOS手机AnyConnect安装：请到appStore中去搜索下载\(免费\)
-
-
 
 参考：[https://tommy.net.cn/2015/02/12/deploy-openconnect-server-with-docker/](https://tommy.net.cn/2015/02/12/deploy-openconnect-server-with-docker/)
 
