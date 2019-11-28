@@ -21,6 +21,7 @@
 * [其它](qi-ta.md)
   * [Php环境搭建](qi-ta/phphuan-jing-da-jian.md)
   * [翻墙](qi-ta/fan-qiang.md)
-    * ssr方式
+    * [ssr方式](qi-ta/ssrfang-shi.md)
     * [VPN搭建](qi-ta/vpnda-jian.md)
+  * [git命令大全](qi-ta/gitming-ling-da-quan.md)
 
