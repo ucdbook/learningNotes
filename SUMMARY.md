@@ -17,6 +17,7 @@
 * [Flutter学习](flut.md)
   * [基础API](flut/bu-ju-pian.md)
     * [布局API](flut/bu-ju-pian/bu-ju-api.md)
+    * 装饰API
   * [调试](flut/diao-shi.md)
     * [IOS端模拟器调试](flut/iosduan-mo-ni-qi-diao-shi.md)
     * [IOS端手机调试](flut/iosshou-ji-lian-diao.md)
