@@ -4,5 +4,13 @@
 
 a. double     b. int      c. String     d. Set
 
+二、声明变量的方式
+
+a. var        b. 数据类型前缀        c. Dart         d. const            e. void           f. let
+
+  
+
+
+  
 
 
