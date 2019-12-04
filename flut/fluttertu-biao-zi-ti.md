@@ -68,8 +68,8 @@ flutter:
 ```
 Icon(
   IconData(
-     0xe8ad,//code
-     fontFamily: 'MaterialIcons'//字体
+     61447,//code
+     fontFamily: 'FontAwesome'//字体
   ),
   color: Colors.red,
 ）
