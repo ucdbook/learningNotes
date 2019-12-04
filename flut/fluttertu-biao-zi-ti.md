@@ -1,16 +1,6 @@
 Flutter图标字体
 
-图片容器:
-
-```
-
-
-Icon(Icons.add)
-```
-
-
-
-Material中自带Icon：
+#### Material中自带Icon
 
 [https://material.io/resources/icons/?icon=account\_balance&style=baseline](https://material.io/resources/icons/?icon=account_balance&style=baseline)
 
@@ -24,7 +14,7 @@ new IconButton(icon: new Icon(Icons.home), onPressed: _pushSaved)
 Icon(Icons.add)
 ```
 
-引入本地图片：
+#### 引入本地图片：
 
 ```
 Image.asset(
@@ -34,7 +24,7 @@ Image.asset(
 )
 ```
 
-自定义图标字体:
+#### 自定义图标字体:
 
 
 
