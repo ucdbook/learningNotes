@@ -22,7 +22,7 @@ new IconButton(icon: new Icon(Icons.home), onPressed: _pushSaved)
 Icon(Icons.add)
 ```
 
-#### 引入本地图片：
+#### 引入本地图片
 
 pubspec.yaml中配置：
 
@@ -45,7 +45,7 @@ Image.asset(
 )
 ```
 
-#### 自定义图标字体:
+#### 自定义图标字体
 
 pubspec.yaml中配置：
 
