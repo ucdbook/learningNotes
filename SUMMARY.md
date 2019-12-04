@@ -16,9 +16,9 @@
 * [好文介绍](zu-jian-jie-shao.md)
 * [Flutter学习](flut.md)
   * [Create App](flut/appshi-li.md)
-  * [API](flut/bu-ju-pian.md)
-    * [布局API](flut/bu-ju-pian/bu-ju-api.md)
-    * 装饰API
+  * [Flutter元件](flut/bu-ju-pian.md)
+    * [布局](flut/bu-ju-pian/bu-ju-api.md)
+    * [装饰](flut/bu-ju-pian/zhuang-shi-api.md)
   * [发布](flut/fa-bu.md)
     * [IOS端发布](flut/fa-bu/iosfa-bu.md)
     * [Android端发布](flut/fa-bu/androidfa-bu.md)
