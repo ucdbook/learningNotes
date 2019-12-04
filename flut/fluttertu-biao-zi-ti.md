@@ -8,6 +8,7 @@ pubspec.yaml中配置：
 
 ```
 flutter:
+
   uses-material-design: true
 ```
 
@@ -27,6 +28,7 @@ pubspec.yaml中配置：
 
 ```
 flutter:
+
   uses-material-design: true
 
   assets:
@@ -44,6 +46,26 @@ Image.asset(
 ```
 
 #### 自定义图标字体:
+
+
+
+```
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - lib/images
+
+  fonts:
+    - family: FontAwesome
+      fonts:
+        - asset: lib/fonts/FontAwesome.ttf
+```
+
+
+
+
 
 
 
