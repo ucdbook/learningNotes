@@ -47,7 +47,7 @@ Image.asset(
 
 #### 自定义图标字体:
 
-
+pubspec.yaml中配置：
 
 ```
 flutter:
@@ -62,12 +62,6 @@ flutter:
       fonts:
         - asset: lib/fonts/FontAwesome.ttf
 ```
-
-
-
-
-
-
 
 
 
