@@ -63,5 +63,17 @@ flutter:
         - asset: lib/fonts/FontAwesome.ttf
 ```
 
+调用：
+
+```
+Icon(
+  IconData(
+     0xe8ad,//code
+     fontFamily: 'MaterialIcons'//字体
+  ),
+  color: Colors.red,
+）
+```
+
 
 
