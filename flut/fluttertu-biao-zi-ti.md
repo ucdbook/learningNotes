@@ -4,7 +4,14 @@ Flutter图标字体
 
 [https://material.io/resources/icons/?icon=account\_balance&style=baseline](https://material.io/resources/icons/?icon=account_balance&style=baseline)
 
-用法：
+pubspec.yaml中配置：
+
+```
+flutter:
+  uses-material-design: true
+```
+
+调用：
 
 ```
 //图片安扭
@@ -15,6 +22,18 @@ Icon(Icons.add)
 ```
 
 #### 引入本地图片：
+
+pubspec.yaml中配置：
+
+```
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images
+```
+
+调用：
 
 ```
 Image.asset(
