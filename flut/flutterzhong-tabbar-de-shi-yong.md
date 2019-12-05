@@ -10,11 +10,5 @@ App底部Tab栏有多种实现方式：
 
 4. CupertinoTabBar：
 
-效果图：
-
-![](/assets/imrrport.png)
-
-TabBar中提供一个组件。
-
-文档地址：
+文
 
