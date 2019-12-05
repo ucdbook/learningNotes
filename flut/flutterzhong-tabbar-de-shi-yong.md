@@ -4,8 +4,7 @@ App底部Tab栏有多种实现方式：
 
 1. material.dart中的Tabs
 
-2. 
-
+2. [http://w4mxl.github.io/2019/08/01/flutter-bottom-bar/](http://w4mxl.github.io/2019/08/01/flutter-bottom-bar/)
 
 效果图：
 
