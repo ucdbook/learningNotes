@@ -30,6 +30,7 @@
     * [Android端手机调试](flut/androidshou-ji-lian-diao.md)
     * [H5端调试](flut/h5duan-diao-shi.md)
   * [Dart语法](flut/dartyu-fa.md)
+  * [Flutter中的布局](flut/flutterzhong-de-bu-ju.md)
   * [Flutter中使用图片](flut/fluttertu-biao-zi-ti.md)
   * [Flutter中TabBar的使用](flut/flutterzhong-tabbar-de-shi-yong.md)
 * [其它](qi-ta.md)
