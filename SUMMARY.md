@@ -35,7 +35,7 @@
   * [底部Tab](flut/flutterzhong-tabbar-de-shi-yong.md)
   * [图片](flut/fluttertu-biao-zi-ti.md)
   * [按钮](flut/ru-he-shi-yong-an-niu.md)
-  * 文字
+  * [文字](flut/wen-zi.md)
 * [其它](qi-ta.md)
   * [Php环境搭建](qi-ta/phphuan-jing-da-jian.md)
   * [翻墙](qi-ta/fan-qiang.md)
