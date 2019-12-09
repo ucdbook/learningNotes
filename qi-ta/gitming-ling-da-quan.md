@@ -25,5 +25,11 @@ git checkout -b dev
 git push origin dev
 ```
 
+#### 把本地项目关联远程git项目
+
+```
+
+```
+
 
 
