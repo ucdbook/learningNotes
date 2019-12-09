@@ -28,7 +28,11 @@ git push origin dev
 #### 把本地项目关联远程git项目
 
 ```
-
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ucdbook/ddd.git
+git push -u origin master
 ```
 
 
