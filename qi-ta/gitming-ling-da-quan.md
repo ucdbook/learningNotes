@@ -33,6 +33,12 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ucdbook/ddd.git
 git push -u origin master
+
+//查看远程地址
+git remote -v
+
+//删除与远程地址的关联
+git remote remove origin https://github.com/ucdbook/flutter-test.git
 ```
 
 
