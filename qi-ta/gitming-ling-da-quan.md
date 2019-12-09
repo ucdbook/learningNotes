@@ -38,7 +38,7 @@ git push -u origin master
 git remote -v
 
 //删除与远程地址的关联
-git remote remove origin https://github.com/ucdbook/flutter-test.git
+git remote remove origin
 ```
 
 
