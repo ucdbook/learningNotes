@@ -45,6 +45,16 @@ Image.asset(
 )
 ```
 
+#### 使用远程图片
+
+```
+Image.network(
+    'http://portal.etransfar.com/hrPortal/images/login/pic_1.png',
+    height: 24,
+    width: 24,
+)
+```
+
 #### 使用外部图标字体
 
 pubspec.yaml中配置：
@@ -74,6 +84,8 @@ Icon(
   color: Colors.red,
 ）
 ```
+
+
 
 ## 图片的样式控制
 
