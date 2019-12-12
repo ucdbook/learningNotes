@@ -41,5 +41,15 @@ git remote -v
 git remote remove origin
 ```
 
+在github上看一个项目的大小
+
+```
+//在浏器打下以下Url地址
+//ucdbook换成组件名
+//Flutter-Music-Player换成仓库名
+https://api.github.com/repos/ucdbook/Flutter-Music-Player
+
+```
+
 
 
