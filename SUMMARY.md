@@ -45,4 +45,5 @@
   * [git命令大全](qi-ta/gitming-ling-da-quan.md)
   * [收藏文章](qi-ta/shou-cang-wei-bo.md)
 * [小程序跨端框架uni-app](xiao-cheng-xu-3001-h5-app-kua-duan-kuang-jia-uni-app.md)
+* [回家下载的任务](hui-jia-xia-zai-de-ren-wu.md)
 
