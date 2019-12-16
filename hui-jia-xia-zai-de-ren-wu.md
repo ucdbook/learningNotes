@@ -2,3 +2,5 @@
 
 firebase文档: [https://firebase.google.com/docs/web/setup/?authuser=0](https://firebase.google.com/docs/web/setup/?authuser=0)
 
+[https://firebase.google.com/docs/samples?authuser=0](https://firebase.google.com/docs/samples?authuser=0)
+
