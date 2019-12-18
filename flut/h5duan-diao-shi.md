@@ -1,10 +1,8 @@
-
-
 一、使用http插件发送请求
 
 [https://pub.flutter-io.cn/packages/http](https://pub.flutter-io.cn/packages/http)
 
-pubspex.yaml
+第一步：pubspex.yaml中配置依赖
 
 ```
 dependencies:
@@ -14,5 +12,5 @@ dependencies:
   http: ^0.12.0+2
 ```
 
-
+第二步：
 
