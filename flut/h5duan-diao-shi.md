@@ -30,8 +30,20 @@ dev_dependencies:
 ```
 
 ```
+//安装webdev
 flutter pub global activate webdev
 ```
+
+```
+/* mac中配置webdev的环境变量 */
+//打开环境变量文件
+vi ~/.bash_profile
+
+//写入webdev路径(路径在安装完webdev后，会有提示，如下图)
+export PATH="$PATH":"/Volumes/project/flutter/.pub-cache/bin"
+```
+
+![](/assets/4433344.png)
 
 三、给H5配置热加载
 
