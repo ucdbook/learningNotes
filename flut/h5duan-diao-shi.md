@@ -40,7 +40,7 @@ flutter pub global activate webdev
 vi ~/.bash_profile
 
 //写入webdev路径(路径在安装完webdev后，会有提示，如下图)
-export PATH="$PATH":"/Volumes/project/flutter/.pub-cache/bin"
+export PATH=Volumes/project/flutter/.pub-cache/bin
 ```
 
 ![](/assets/4433344.png)
