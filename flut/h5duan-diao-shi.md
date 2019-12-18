@@ -41,7 +41,7 @@ flutter pub global activate webdev
 //打开环境变量文件
 vi ~/.bash_profile
 
-//写入webdev路径(路径在安装完webdev后，会有提示，如下图)
+//写入webdev、dart路径(路径在安装完webdev后，会有提示，如下图)
 export PATH="$PATH":"/Volumes/project/flutter/.pub-cache/bin"
 export PATH=${PATH}:/Volumes/project/flutter/bin/cache/dart-sdk/bin
 
