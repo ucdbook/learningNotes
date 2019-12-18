@@ -22,7 +22,12 @@ dependencies:
 
 二、给H5配置接口代理
 
-
+```
+dev_dependencies:
+  ...
+  build_runner: ^1.6.2
+  build_web_compilers: ^2.0.0
+```
 
 三、给H5配置热加载
 
