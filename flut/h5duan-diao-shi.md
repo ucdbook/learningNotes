@@ -29,5 +29,9 @@ dev_dependencies:
   build_web_compilers: ^2.0.0
 ```
 
+```
+flutter pub global activate webdev
+```
+
 三、给H5配置热加载
 
