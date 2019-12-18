@@ -1,4 +1,6 @@
+```
 一、使用http插件发送请求
+```
 
 [https://pub.flutter-io.cn/packages/http](https://pub.flutter-io.cn/packages/http)
 
@@ -40,10 +42,11 @@ flutter pub global activate webdev
 vi ~/.bash_profile
 
 //写入webdev路径(路径在安装完webdev后，会有提示，如下图)
-export PATH=Volumes/project/flutter/.pub-cache/bin
+export PATH="$PATH":"/Volumes/project/flutter/.pub-cache/bin"
+export PATH=${PATH}:/Volumes/project/flutter/bin/cache/dart-sdk/bin
 ```
 
-![](/assets/4433344.png)
+**注：在Android Studio中需要新打开的Terminal才能使用**![](/assets/4433344.png)
 
 三、给H5配置热加载
 
