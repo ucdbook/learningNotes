@@ -44,6 +44,9 @@ vi ~/.bash_profile
 //写入webdev路径(路径在安装完webdev后，会有提示，如下图)
 export PATH="$PATH":"/Volumes/project/flutter/.pub-cache/bin"
 export PATH=${PATH}:/Volumes/project/flutter/bin/cache/dart-sdk/bin
+
+//刷新一下profile
+source ~/.bash_profile
 ```
 
 **注：在Android Studio中需要新打开的Terminal才能使用**![](/assets/4433344.png)
