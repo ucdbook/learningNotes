@@ -48,7 +48,6 @@ git remote remove origin
 //ucdbook换成组件名
 //Flutter-Music-Player换成仓库名
 https://api.github.com/repos/ucdbook/Flutter-Music-Player
-
 ```
 
 
