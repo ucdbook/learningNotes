@@ -10,6 +10,8 @@ pub: [https://pub.dev/](https://pub.dev/)
 
 [https://juejin.im/post/5df8ac5d6fb9a01600533f6b](https://juejin.im/post/5df8ac5d6fb9a01600533f6b)
 
+[https://juejin.im/post/5df2366b6fb9a016510da009](https://juejin.im/post/5df2366b6fb9a016510da009)
+
 **环境安装：**
 
 安装[android-studio](http://www.android-studio.org/)
