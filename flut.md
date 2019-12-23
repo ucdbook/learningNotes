@@ -4,6 +4,8 @@
 
 中文：[https://flutterchina.club/setup-macos/\#%E8%8E%B7%E5%8F%96flutter-sdk](https://flutterchina.club/setup-macos/#获取flutter-sdk)
 
+pub: [https://pub.dev/](https://pub.dev/)
+
 **环境安装：**
 
 安装[android-studio](http://www.android-studio.org/)
