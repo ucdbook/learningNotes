@@ -10,3 +10,35 @@ a. double     b. int      c. String     d. Set
 
 a. var        b. 数据类型前缀        c. Dart         d. const            e. void           f. let
 
+三、以下函数不正确写法的是
+
+A.
+
+```
+void aa = () => print('ddd');
+```
+
+B.
+
+```
+void aa = () => {
+    print('ddd');
+    print('cccc');
+};
+```
+
+C.
+
+```
+void aa = () {
+    print('ddd');
+    print('cccc');
+};
+```
+
+
+
+
+
+
+
