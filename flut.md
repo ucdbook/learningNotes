@@ -26,3 +26,9 @@ pub: [https://pub.dev/](https://pub.dev/)
 
 开发文档：[https://book.flutterchina.club/chapter2/flutter\_app\_debug.html](https://book.flutterchina.club/chapter2/flutter_app_debug.html)
 
+
+
+坑记录文档：
+
+[http://www.sohu.com/a/324468732\_611601](http://www.sohu.com/a/324468732_611601)
+
