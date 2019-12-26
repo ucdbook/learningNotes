@@ -73,7 +73,12 @@ print(b is double);               //判断是否转换成功
 
 var str = 1234.toString();        //把数值 1234 转换成 字符串 1234
 print(str  is String);            //判断是否转换成功
-//输出 ture 
+//输出 ture
+
+//
+var a = int.parse('w1234');                
+//报错 
+
 
 ```
 
