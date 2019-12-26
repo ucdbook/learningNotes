@@ -60,3 +60,22 @@ void _createComparsionFunction(String propertyName) {
 
 六、Map、LIst读取、设置
 
+七、字符串与数值的转换
+
+```
+var a = int.parse('1234');         //把字符串 1234 转换成 数值 1234
+print(a is int);                   //判断是否转换成功
+//输出 ture 
+
+var b = double.parse('1234.12');  //把字符串 1234.12 转换成 数值 1234.12
+print(b is double);               //判断是否转换成功
+//输出 ture 
+
+var str = 1234.toString();        //把数值 1234 转换成 字符串 1234
+print(str  is String);            //判断是否转换成功
+//输出 ture 
+
+```
+
+
+
