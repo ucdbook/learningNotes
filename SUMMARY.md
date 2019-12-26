@@ -50,4 +50,6 @@
 * [回家下载的任务](hui-jia-xia-zai-de-ren-wu.md)
 * [微前端](wei-qian-duan.md)
 * [人工智能](ren-gong-zhi-neng.md)
+* [新技术](xin-ji-zhu.md)
+  * [svelte](xin-ji-zhu/svelte.md)
 
