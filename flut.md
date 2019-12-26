@@ -26,9 +26,11 @@ pub: [https://pub.dev/](https://pub.dev/)
 
 开发文档：[https://book.flutterchina.club/chapter2/flutter\_app\_debug.html](https://book.flutterchina.club/chapter2/flutter_app_debug.html)
 
-
-
 坑记录文档：
 
 [http://www.sohu.com/a/324468732\_611601](http://www.sohu.com/a/324468732_611601)
+
+验证码input例子:
+
+[https://github.com/yumi0629/FlutterUI/blob/master/lib/verificationcode/Verification\_code\_paget.dart](https://github.com/yumi0629/FlutterUI/blob/master/lib/verificationcode/Verification_code_paget.dart)
 
