@@ -77,9 +77,15 @@ print(str  is String);            //判断是否转换成功
 
 //
 var a = int.parse('w1234');                
-//报错 
+//报错
+```
 
+八、json字符串转JSON
 
+```
+import 'dart:convert' as convert;
+
+convert.jsonDecode(response.body);
 ```
 
 
