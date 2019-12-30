@@ -34,3 +34,5 @@ pub: [https://pub.dev/](https://pub.dev/)
 
 [https://github.com/yumi0629/FlutterUI/blob/master/lib/verificationcode/Verification\_code\_paget.dart](https://github.com/yumi0629/FlutterUI/blob/master/lib/verificationcode/Verification_code_paget.dart)
 
+生命周期：
+
