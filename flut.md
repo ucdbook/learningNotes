@@ -38,3 +38,7 @@ pub: [https://pub.dev/](https://pub.dev/)
 
 [https://www.jianshu.com/p/7e8dff26f81a](https://www.jianshu.com/p/7e8dff26f81a)
 
+发送pub包:[https://blog.csdn.net/sxt\_zls/article/details/89450453](https://blog.csdn.net/sxt_zls/article/details/89450453)
+
+
+
