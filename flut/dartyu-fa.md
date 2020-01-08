@@ -2,7 +2,7 @@ dart中文学习笔记：[https://www.yiibai.com/dart/dart\_programming\_syntax.
 
 dart官网\(库的介绍\)：[https://api.dartlang.org/stable/2.6.1/dart-io/dart-io-library.html](https://api.dartlang.org/stable/2.6.1/dart-io/dart-io-library.html)
 
-[https://dart.cn/tools/webdev](https://dart.cn/tools/webdev)
+dart官网\(中文\)[https://dart.cn/tools/webdev](https://dart.cn/tools/webdev)
 
 一、数字类型包含哪些：
 
