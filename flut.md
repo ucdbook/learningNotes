@@ -42,3 +42,5 @@ pub: [https://pub.dev/](https://pub.dev/)
 
 dart起服务：[https://www.jianshu.com/p/fe98bf64cafd](https://www.jianshu.com/p/fe98bf64cafd)
 
+flutter\_web：[https://elizurhz.cn/mobile/flutter-tittle-tattle/](https://elizurhz.cn/mobile/flutter-tittle-tattle/)
+
